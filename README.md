@@ -2,7 +2,7 @@
 
 Hi! Are you ready to join our team working on an innovative and exciting project? 
 
-For the test assignment, we would like you to create a basic **⁄** that is responsible to cover different types of debts and generating energy. 
+For the test assignment, we would like you to create a basic **transaction processing unit** that is responsible to cover different types of debts and generating energy. 
 
 **Helpful notes:**
 - If the sent amount can not cover the debts, just pay as much as you can.
